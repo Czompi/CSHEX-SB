@@ -1,4 +1,4 @@
-package hu.czsoft.cshex_sb.services;
+package hu.czsoft.cshex_sb.workers;
 
 import com.itextpdf.html2pdf.attach.ITagWorker;
 import com.itextpdf.html2pdf.attach.ProcessorContext;

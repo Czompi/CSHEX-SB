@@ -4,6 +4,7 @@ import com.itextpdf.html2pdf.ConverterProperties;
 import com.itextpdf.html2pdf.HtmlConverter;
 import com.itextpdf.html2pdf.resolver.font.DefaultFontProvider;
 import com.itextpdf.layout.font.FontProvider;
+import hu.czsoft.cshex_sb.workers.CustomTagWorkerFactory;
 import org.springframework.stereotype.Service;
 
 import java.io.ByteArrayInputStream;
