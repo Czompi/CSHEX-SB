@@ -17,7 +17,7 @@ import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
 
 @RestController
-@RequestMapping(value = "/convert")
+@RequestMapping(value = "/v1/convert")
 public class SiteConverterController {
     @Autowired
     private PdfService pdfService;
