@@ -1,4 +1,7 @@
 # CSHEX-SB
+This project is mainly created for my CV export, but I thought, that I'll share it, because it can be useful for someone as well.
+It uses [iText 7 Html2Pdf](https://kb.itextpdf.com/home/it7kb/ebooks/itext-7-converting-html-to-pdf-with-pdfhtml) converter package to convert HTML files to PDF.
+
 ## Endpoints
 ### POST `/v1/convert`
 #### Request
