@@ -10,7 +10,7 @@
     </parent>
     <groupId>hu.czsoft</groupId>
     <artifactId>CSHEX-SB</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1-SNAPSHOT</version>
     <name>CSHEX-SB</name>
     <description>Czompi Software - Html EXporter [to PDF] powered by Spring Boot</description>
     <properties>
